@@ -1,6 +1,6 @@
 ## **Why are you interested in this dataset?**
 
-I am interested in this particular dataset because 
+I am interested in this particular dataset because I am very curious as to what different factors contribute to an individual's academic performance!
 
 ---
 
